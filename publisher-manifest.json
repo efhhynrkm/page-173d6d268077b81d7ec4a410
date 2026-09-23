@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "8bf42c2c54efd60ae7967d8d",
+  "owner": "efhhynrkm",
+  "repo": "page-173d6d268077b81d7ec4a410",
+  "title": "捷豹(.0)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "173d6d268077b81d7ec4a410",
+      "a": "捷豹(.0)",
+      "b": "2027官方最新地址导航",
+      "entity": "捷豹(.0)",
+      "brand": "捷豹(.0)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9ae575f5ab1f8933acaee4a3cfc4898dffb544f1a1ff8a29bbad6d2ece23db47",
+      "content": {
+        "primary_entity": "捷豹(.0)",
+        "keyword1": "捷豹(.0)",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，手机、电脑与路由器各有对应订阅方式。",
+          "AI_CLIENTS_TITLE": "多设备客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档配置订阅，即可开始使用捷豹(.0)海外加速器。",
+          "AI_CLOSING_TITLE": "订阅配置从选对套餐开始",
+          "AI_DESCRIPTION": "，捷豹(.0)海外加速器提供基础版、旗舰版与团队版三档订阅，流量、设备数量和线路各不相同，可按日常使用设备数与流媒体、游戏需求直接对比选择。",
+          "AI_FEATURES_INTRO": "围绕套餐选择、设备需求与订阅周期，快速了解捷豹(.0)的常见使用方式。",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 流量、3 台设备，适合单人轻量浏览。",
+          "AI_FEATURE_TEXT_2": "旗舰版每月 300GB 流量、5 台设备，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版每月 1000GB 流量、20 台设备，支持企业定制路由。",
+          "AI_FEATURE_TITLE_1": "轻量入门",
+          "AI_FEATURE_TITLE_2": "性能均衡",
+          "AI_FEATURE_TITLE_3": "多人协作",
+          "AI_GUIDE_INTRO": "按三步完成从选套餐到配置订阅的流程。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "捷豹(.0)海外加速器面向需要跨境访问的用户，提供分档订阅套餐，可按流量、设备数量与线路类型选择基础版、旗舰版或团队版。",
+          "AI_HERO_SUBTITLE": "捷豹(.0)分档订阅按需选择",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖个人到团队",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线加速",
+          "AI_HIGHLIGHT_3": "按年付享更优价格",
+          "AI_PLANS_INTRO": "基础版适合 1 至 3 台设备轻度使用；旗舰版面向流媒体与游戏需求；团队版支持 20 台设备与企业定制。按年付三档分别为 ¥150、¥350 与 ¥850。",
+          "AI_PLANS_TITLE": "套餐对比选择",
+          "AI_STEP_TEXT_1": "根据日常设备数量与流量消耗，在基础版、旗舰版和团队版之间选择合适档位。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与线路类型，核对是否满足流媒体或游戏需求。",
+          "AI_STEP_TEXT_3": "下载对应客户端，按客户端文档导入订阅地址并完成配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "捷豹(.0)订阅套餐",
+          "AI_FAQ_ANSWER_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，均为每月流量额度，按自然月重置。",
+          "AI_FAQ_ANSWER_2": "基础版 3 台、旗舰版 5 台、团队版 20 台，同账号可多设备同时在线。",
+          "AI_FAQ_ANSWER_3": "可以。订阅按客户端配置导入，更换设备后移除旧设备配置并添加新设备即可。",
+          "AI_FAQ_ANSWER_4": "年付方案分别为 ¥150、¥350 与 ¥850，相比月付累计可节省数月费用。",
+          "AI_FAQ_ANSWER_5": "先确认设备系统，Windows 与 macOS 可选 Clash 类客户端，iOS 用 Shadowrocket，Android 用 Clash Meta。",
+          "AI_FAQ_INTRO": "订阅安装、设备数量、年付与客户端选择。",
+          "AI_FAQ_QUESTION_1": "每月流量额度是多少？",
+          "AI_FAQ_QUESTION_2": "可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_3": "更换设备后需要重新配置吗？",
+          "AI_FAQ_QUESTION_4": "年付比月付便宜多少？",
+          "AI_FAQ_QUESTION_5": "如何选择适合自己的客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zljcloud.cn",
+    "host": "zljcloud.cn"
+  },
+  "file_hashes": {
+    "index.html": "77bc4c5daee208530faddde4ee84bf66c4622cdaaef1c2ccf962d3d66f32094b",
+    "sitemap.xml": "2b6a54ccc79f2f36558ce8fa2a41d7e523556b5334d76d585f62e999320eea47",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "11e665daaaacbd5b79e911f125aef23ec45b8372210101b2f9d01387e4c60616",
+    "robots.txt": "72778952c3fadc50436375a6b3e3f3ccf463d73be6d91881c548ff1901c534fc",
+    "bb03468782ae2d57dafc2e94759b7659.txt": "9fd162472082490063e483802e195943acf9073676ad411e9915ec01f8954d96"
+  },
+  "revision": "17d9fe06a840eb16e798fcafe1c0b31b1fb0bab6ad6009e500229387d4e77bda"
+}
